@@ -1,1 +1,3 @@
+app/core.*
 .ipynb_checkpoints
+target/
